@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimyoungjae96)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimyoungjae96&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kimyoungjae96/kimyoungjae96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
